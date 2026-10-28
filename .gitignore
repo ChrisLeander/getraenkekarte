@@ -1,0 +1,6 @@
+# Kartendaten und Geheimnisse gehören nicht ins Repository
+data/*
+!data/.keep
+.env
+*.log
+node_modules/
